@@ -1,0 +1,9 @@
+Account,Industry,Contacts,Active_Opps,Won_Opps,Lost_Opps,Products_Sold,Calls,Meetings,Tasks,Emails,Products_Sold_List,Industry_Code
+Apple,Logistics,13,4,5,1,"Relationship Planner, Opportunity Planner",7,6,5,9,"['Relationship Planner', 'Opportunity Planner']",1
+Pfizer,Healthcare,9,2,4,3,"Account Planner, Opportunity Planner, Relationship Planner",5,3,4,10,"['Account Planner', 'Opportunity Planner', 'Relationship Planner']",0
+DHL,Logistics,4,3,1,3,"Account Planner, Opportunity Planner",4,4,3,3,"['Account Planner', 'Opportunity Planner']",1
+JP Morgan,Healthcare,7,3,1,3,"Opportunity Planner, Account Planner",2,6,1,9,"['Opportunity Planner', 'Account Planner']",0
+Tesla,Tech,14,3,5,3,Relationship Planner,2,6,2,3,['Relationship Planner'],2
+GE Healthcare,Logistics,11,3,2,1,"Relationship Planner, Account Planner",2,3,2,7,"['Relationship Planner', 'Account Planner']",1
+FedEx,Healthcare,4,2,5,2,Account Planner,3,2,3,4,['Account Planner'],0
+Goldman Sachs,Healthcare,4,4,1,0,Opportunity Planner,8,3,3,8,['Opportunity Planner'],0
